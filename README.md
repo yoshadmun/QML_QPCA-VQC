@@ -4,8 +4,6 @@ This repository explores the implementation of the **Quantum Principle Component
 
 Dataset Links: 
 
-OMol25: [https://huggingface.co/facebook/OMol25] 
-​
-CLaMP: [https://www.kaggle.com/datasets/saurabhshahane/classification-of-malwares] 
-​
-DOE Solar/TMY3: [https://www.kaggle.com/datasets/us-doe/tmy3-solar]​
+- OMol25: [OMol25 Dataset](https://huggingface.co/facebook/OMol25)
+- ClaMP: [ClaMP Dataset](https://www.kaggle.com/datasets/saurabhshahane/classification-of-malwares)
+- DOE Solar/TMY3: [DOE Solar/TMY3 Dataset](https://www.kaggle.com/datasets/us-doe/tmy3-solar)​
