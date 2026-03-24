@@ -1,6 +1,6 @@
 # QPCA + VQC
 
-This repository explores the implementation of the **Quantum Principle Component Analysis (QAOA)** with **Variational Quantum Circuits (VQC)** and compare three feature maps (Z, ZZ, and Pauli) to check which data encoding method works best for the three datasets we are working on.
+This repository explores the implementation of the **Quantum Principle Component Analysis (QAOA)** with **Variational Quantum Classifier (VQC)** and compare three feature maps (Z, ZZ, and Pauli) to check which data encoding method works best for the three datasets we are working on.
 
 Dataset Links: 
 
